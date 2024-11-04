@@ -1,17 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import In from './components/inline';
+import Inline from './components/inline';
 import Internal from './components/internal';
-import Header from '.components/example';
+import Example from './components/example';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <In/>
+    <Inline/>
     <Internal/>
-    <Header/>
+    <Example/>
     {/* <Test /> */}
   </React.StrictMode>
 );

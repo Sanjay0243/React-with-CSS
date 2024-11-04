@@ -1,4 +1,4 @@
-function inline(){
+function Inline(){
     const mystyle={
         color:'white', 
         marginleft: 600,
@@ -18,4 +18,4 @@ function inline(){
          
      )
  }
- export default inline;
+ export default Inline;

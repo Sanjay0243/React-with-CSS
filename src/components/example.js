@@ -1,17 +1,8 @@
-// function Car(){
-//     return (
-//         <>
-//         <h2>This is the car function inside component folder</h2>
-//         </>
-//     )
-// }
 
-// export default Car;
-// Header.js
 import React from 'react';
 
-const Header = () => {
+const Example = () => {
   return <h1>Welcome to My React World!</h1>;
 };
 
-export default Header;
+export default Example;
