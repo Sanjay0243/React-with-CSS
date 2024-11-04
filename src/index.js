@@ -3,10 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Test from './components/test';
 import In from './components/inline';
 import Internal from './components/internal';
-import Car from './components/example';
 import Header from '.components/example';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

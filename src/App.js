@@ -3,7 +3,7 @@ import './App.css';
 // import user from 'react';
 // import UserProfile from './Userprofile'; 
 // App.js
-import Header from './Header'; 
+ 
 
 const App = () => {
   return (
